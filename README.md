@@ -25,6 +25,9 @@
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div> <br>
 
+![Gabriela Monterosso GitHub stats](https://github-readme-stats.vercel.app/api?username=gabimonterosso&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabimonterosso\&layout=compact&theme=dark)
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabimonterosso/gabimonterosso/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabimonterosso/gabimonterosso/output/github-contribution-grid-snake-dark.svg">
