@@ -4,7 +4,7 @@
   </a>
 </div>
 
-- 💻 Cursando técnico em programação <img align="right" height="200px" alt="gabimonterosso" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlzbjRpZjZ2ZzFubHRnNGJhY2VxempkMDF1ajgwbXd4ZW80enl0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9RlUBl3wsrmVRac8kx/giphy.gif">
+- 💻 Cursando técnico em programação <img align="right" height="200px" alt="gabimonterosso" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF5bmI1MnM0NHNyOGRndDhybHRnNjcwMmVtdGpub3k1eXdiMGVrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SReAeJfwMsNkQZBrEe/giphy.gif">
 - 🚀 Estudante do [Ensino Médio Senac Distrito Criativo](https://www.senacrs.com.br/unidade/84)
 - 💌 Contato: g.ferreira.aleixo@gmail.com
 
